@@ -11,6 +11,6 @@
     <ol>
         <li>Clona este repositorio: <code>git clone https://github.com/tu-usuario/mini-market.git</code></li>
         <li>Entra en el directorio del proyecto: <code>cd mini-market</code></li>
-        <li>Ejecuta la aplicación: <code>node app.js</code></li>
+        <li>Ejecuta la aplicación: <code>node servermercado.js</code></li>
         <li>Abre tu navegador y ve a <code>http://localhost:3000</code> para explorar el mercado en línea.</li>
     </ol>
